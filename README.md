@@ -1,18 +1,13 @@
-# DSA-Practice
-Topic-wise Leetcode &amp; GFG questions with solutions for Microsoft &amp; Product-Based Companies
-# 💻 DSA Practice for Microsoft & Product-Based Companies
+# 🧠 DSA Tracker – Coding Round Prep
 
-Welcome to my 🔥 curated list of **DSA Problems** from **LeetCode + GeeksforGeeks**. This repo is structured **topic-wise**, and includes:
-
-- ✅ Beginner to Advanced Questions
-- 🧠 Most-asked Microsoft, Amazon, Google, Flipkart questions
-- 💡 Optimized Python Solutions
-- 🔗 Links to Problems
-- 📊 My progress tracker
+Welcome to my structured **Data Structures & Algorithms Practice Repository**!  
+This is where I log my preparation for upcoming coding rounds, with a strong focus on cracking top product-based companies like **Microsoft**, **Amazon**, and more.
 
 ---
 
-## 📂 Topics Covered
+## 📚 Topics Covered
+
+This repo contains handpicked, high-quality questions from **LeetCode** and **GeeksforGeeks**, organized by topic for maximum clarity and progression:
 
 - ✅ Arrays
 - ✅ Strings
@@ -22,36 +17,49 @@ Welcome to my 🔥 curated list of **DSA Problems** from **LeetCode + GeeksforGe
 - ✅ Stacks & Queues
 - ✅ Sliding Window
 - ✅ Recursion & Backtracking
-- ✅ Dynamic Programming (Coming Soon)
+- ✅ Dynamic Programming 
+
+Each folder contains:
+- ✅ Curated Questions  
+- 💻 Solution files in Python  
+- 📋 Excel/Markdown Trackers  
+- 📓 Notes on Patterns + Code Templates
 
 ---
 
-## 🧭 How to Use
+## 🛠️ Tools & Languages
 
-1. Browse by topic folder (e.g., `Trees/`, `Graphs/`)
-2. Open `.py` files to see approach and code
-3. Each solution has:
-   - Leetcode/GFG link
-   - Problem statement
-   - Python solution with comments
+- **Languages Used**: Python 3  
+- **Platforms**: LeetCode, GeeksforGeeks  
+- **Organized using**: Excel, GitHub Markdown  
+- **IDE**: VS Code  
 
 ---
 
-## 🧑‍💼 About Me
+## 💬 Connect with Me
 
-I'm currently preparing for the **Microsoft hiring challenge** (coding round + interview) and this repo is my journey to becoming a stronger problem-solver.
+I'm passionate about building real-world solutions, cracking coding interviews, and collaborating with like-minded learners.
 
-If you're a recruiter or engineer interested in my journey — feel free to connect!
+- 💼 [LinkedIn](www.linkedin.com/in/diya-bangad)  
+- 📫 Email: diiyaa1408@gmail.com 
 
-📬 [LinkedIn](www.linkedin.com/in/diya-bangad)
-
----
-
-## 🌟 Star this repo if:
-- You're preparing for top tech companies
-- You want a clean, structured DSA roadmap
-- You appreciate beginner-friendly, well-commented Python solutions
+> _Let’s learn, grow, and crack it together!_
 
 ---
 
-Made with ❤️ by Diya Bangad 
+## 💼 Message for Recruiters & Viewers
+
+Thank you for visiting this repository!
+
+- This repo is a reflection of my **consistency**, **problem-solving skills**, and **dedication** toward technical growth.
+- All problems are solved and tracked systematically, with the goal of **acing real interview rounds**.
+- If you're a recruiter, I’d love to connect and contribute meaningfully to your team.
+- If you’re a fellow learner, feel free to fork, follow, or reach out — I’m happy to collaborate!
+
+---
+
+> ⭐ If you find this helpful, give it a star and share it with others preparing for their interviews!
+
+
+
+
