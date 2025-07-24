@@ -1,4 +1,5 @@
 📁 Arrays
+
 This folder contains my solutions to popular array-based data structure and algorithm problems from platforms like LeetCode and GeeksforGeeks.
 
 ✅ Topics Covered:
